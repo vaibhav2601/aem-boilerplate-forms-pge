@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: https://author-p165005-e363357-cmstg.adobeaemcloud.com/bin/franklin.delivery/vaibhav2601/aem-boilerplate-forms-pge/main
+    type: "markup"
+    suffix: ".html"
